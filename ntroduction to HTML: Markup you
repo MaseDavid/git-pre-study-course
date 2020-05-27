@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Journey!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    
+    <h1>
+      Thoughts
+    </h1> <p> Life is always full of ups and downs but have you ever wondered how others do it? Waking up and making sure you dont sink, you aren't a flat line... in Africa a failure? So you dont end up like this
+     <p> -<img src="https://previews.123rf.com/images/lenm/lenm1010/lenm101000282/8068992-a-drunk-man-lying-unconscious-on-the-floor.jpg" alt="Drunk Man" width="400"> </p> 
+    
+    <h3>
+  THINGS TO DO
+ </h3>
+  <ul>
+  <li> Work Hard</li>
+  <li> Read</li>
+  <li> Connect</li>
+  </ul>
+ 
+  <em> God gives favour </em>
+   <table border>
+     <tr>
+     <th> Activityty</th>
+     <th>Importance</th>
+     <th> Percentage</th></tr>
+     
+    <tr>
+    <th>Reading</th>
+    <th>very</th>
+    <th>50</th>
+    </tr>
+    <th>Networking</th>
+    <th>most</th>
+    <th>25</th>
+    <tr>
+    <th>God Factor</th>
+    <th>most</th>
+    <th>25</th></tr>
+    </table>
+    <p> I'm your cool new webpage. Made with
+      <a href="https://glitch.com">Glitch</a>!
+    </p>
+<footer> <i> Mase David  22nd May 2020</i></footer>
+    <!-- include the Glitch button to show what the webpage is about and
+  
+</html>
