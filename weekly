@@ -1,0 +1,27 @@
+<!Doctype>
+<html>
+  <head>
+    <title>Git flags</title>
+      </head>
+  <body>
+    <header>
+      <p>
+        My favourite git command is the ls.
+      </p>
+    <h3>
+      Function
+      </h3>
+      The command lists all files available in a directory.it also shows hidden files and details of these files. some flags or arguments that can be used with it include:
+      <ul>
+        ls
+        </ul>
+        <ul>
+          ls -a
+            </ul>    
+      <ul>
+        ls -la
+      </ul>
+  <img src="https://cdn.glitch.com/c83adee3-3188-4792-bfbe-95de1d0b9409%2Fscreenshot.jpeg?v=1592553252877 alt="my demo."screen shot width"300" height="300">
+    </body>
+ 
+    </html>
